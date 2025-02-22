@@ -87,7 +87,7 @@ Random number generators, dice rollers, and other miscellaneous fun tools.
 Gift idea generators, event planning tools, and other gift/event-related calculators.
 
 * Explore Gift and Event Calculators: [https://calchub.vercel.app/category/funEntertainment/gift](https://calchub.vercel.app/category/funEntertainment/gift)
-* Image: ![Gift Calculator](https://github.com/calchub-dev/calchub-funEntertainment/raw/main/images/gifts.png)
+* Image: ![Gift Calculator](https://github.com/calchub-dev/calchub-funEntertainment/raw/main/images/gift.png)
 
 ### 12. Virtual Fun
 
